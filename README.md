@@ -1,3 +1,6 @@
+## Demo Video
+https://drive.google.com/file/d/1LHrprylIDOMqW_KuTnmDQpJEYlYKF25J/view?usp=sharing
+
 1. Install Expo CLI (Must have Node.js)
 - npm install -g expo-cli
 
@@ -22,5 +25,4 @@
 
 Note: Make sure to install some additional libraries which are used in the project.
 
-## Demo Video
-https://drive.google.com/file/d/1LHrprylIDOMqW_KuTnmDQpJEYlYKF25J/view?usp=sharing
+
